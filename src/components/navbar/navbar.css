@@ -1,0 +1,23 @@
+header {
+  background: #fff;
+}
+
+header .container {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 10px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+header a {
+  color: #333;
+  text-decoration: none;
+  padding: 2px 5px;
+}
+
+header .container .nav {
+    display: flex;
+    width: 300px;
+    justify-content: space-between;
+}
